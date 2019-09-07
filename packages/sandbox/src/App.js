@@ -1,0 +1,18 @@
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import ReactAccessibilityLabel from "react-a11y-label";
+
+function App() {
+  const text = "Try out this accessible component!";
+  return (
+    <main className="App">
+      <header className="App-header">
+        <ReactAccessibilityLabel text={text} />
+        <p aria-hidden="true">{Text}</p>
+      </header>
+    </main>
+  );
+}
+
+export default App;

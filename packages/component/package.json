@@ -1,0 +1,36 @@
+{
+  "name": "react-a11y-label",
+  "version": "0.0.0-0",
+  "files": ["lib/**/*"],
+  "description": "A simple packages that makes your project accessible across browsers",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel --out-dir lib src",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corinagum/react-a11y-label.git"
+  },
+  "keywords": [
+    "accessibility",
+    "screenreader"
+  ],
+  "author": "Corina Gum <corinaagum@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corinagum/react-a11y-label/issues"
+  },
+  "homepage": "https://github.com/corinagum/react-a11y-label#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.3"
+  },
+  "peerDependencies": {
+    "react": "^16.9.0"
+  }
+}

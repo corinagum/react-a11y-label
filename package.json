@@ -1,0 +1,20 @@
+{
+  "name": "root",
+  "version": "0.0.0-0",
+  "description": "",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corinagum/react-a11y-label.git"
+  },
+  "bugs": {
+    "url": "https://github.com/corinagum/react-a11y-label/issues"
+  },
+  "homepage": "https://github.com/corinagum/react-a11y-label#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
