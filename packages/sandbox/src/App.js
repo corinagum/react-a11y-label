@@ -8,7 +8,7 @@ function App() {
     <main className="App">
       <header className="App-header">
         <ReactAccessibilityLabel text={text} />
-        <p aria-hidden="true">{Text}</p>
+        <p aria-hidden="true">{text + "hi"}</p>
       </header>
     </main>
   );
