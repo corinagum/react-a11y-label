@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/corinagum/react-a11y-label#readme",
   "devDependencies": {
-    "lerna": "^3.16.4"
+    "lerna": "^5.5.4"
   }
 }
