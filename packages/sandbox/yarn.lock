@@ -7280,10 +7280,10 @@ raw-body@2.5.1:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-react-a11y-label@^0.0.0-0:
-  version "0.0.0-master.b7b3f40"
-  resolved "https://registry.yarnpkg.com/react-a11y-label/-/react-a11y-label-0.0.0-master.b7b3f40.tgz#a65888fce4bcbe7c091f061ecd74c3c8df7946b5"
-  integrity sha512-R94T21lyHW8Au9Kbwe5ZmedehOJ+dz9D2m59QwwA/9usbP9lGCMlSptTjwF+eZyOsFXUlvoYOpCW53wTFaAHFA==
+react-a11y-label@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-a11y-label/-/react-a11y-label-1.0.0.tgz#58f0c35c7e2c82968b0cd976f6b54e8db4ac67aa"
+  integrity sha512-dy/2YpbGzY8UUm2rZEVrczRaEBuwY7dgRno++EXp21VwvOjFCAvRW5XDOheXl3eNkXRS3ofUEYVazLA77ZoKdw==
 
 react-app-polyfill@^3.0.0:
   version "3.0.0"
@@ -7416,6 +7416,7 @@ react-scripts@5.0.1:
     workbox-webpack-plugin "^6.4.1"
   optionalDependencies:
     fsevents "^2.3.2"
+
 react@^16.14.0:
   version "16.14.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
