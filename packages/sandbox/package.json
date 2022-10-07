@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.14.0",
-    "react-a11y-label": "^0.0.0-0",
+    "react-a11y-label": "^1.0.0",
     "react-dom": "^16.9.0",
     "react-scripts": "5.0.1"
   },
